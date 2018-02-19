@@ -40,3 +40,24 @@ Papers should be submitted via [EasyChair](https://easychair.org/conferences/?co
 
 ### Participation 
 This workshop features group activity in addition to invited talks and paper/poster presentations. We encourage interested participants to send us a paragraph by June 1, 2018 to indicate their expertise and research interests, such as “qualitative” or “quantitative”, “education”, and “information diffusion”, and questions for a fishbowl-style discussion.  All questions about submissions should be emailed to [beyondonlinedata18@gmail.com](mailto:beyondonlinedata18@gmail.com).
+
+## Organizers
+**[Michael Macy](http://infosci.cornell.edu/faculty/michael-macy)**  
+Goldwin Smith Professor  
+Department of Sociology, Cornell University  
+mwm14@cornell.edu 
+
+**[Daniel M Romero](http://www.dromero.org)**  
+Assistant Professor  
+School of Information, University of Michigan   
+drom@umich.edu  
+
+**[Amit Sharma](https://www.amitsharma.in)**  
+Researcher  
+Microsoft Research India   
+amshar@microsoft.com
+
+**[Chenhao Tan](https://chenhaot.com)**  
+Assistant Professor  
+Department of Computer Science, University of Colorado Boulder   
+chenhao@chenhaot.com  
