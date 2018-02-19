@@ -28,12 +28,12 @@ Examples of offline data that may be combined with online data include but are n
 ## Important Dates 
 - Paper due date: Apr 22, 2018
 - Author notification date: May 15, 2018
-- Camera ready due: June 1, 2018i
+- Camera ready due: June 1, 2018
 - Workshop date: June 25, 2018  
 
 ## Submission Guidelines 
 ### Format
-We encourage submissions of work-in-progress, unpublished results, and accepted paper at top conferences/journals. All authors are required to use the AAAI Author Kit to format their papers. The author kit is available at <http://www.aaai.org/Publications/Templates/AuthorKit18.zip>. Submissions should be no longer than 8 pages.  
+We encourage submissions of work-in-progress, unpublished results, and accepted paper at top conferences/journals. All authors are required to use the AAAI Author Kit to format their papers. The author kit is available at <http://www.aaai.org/Publications/Templates/AuthorKit18.zip>. Submissions should be 2-8 pages.  
 
 ### Submission Link
 Papers should be submitted via [EasyChair](https://easychair.org/conferences/?conf=bod18).
