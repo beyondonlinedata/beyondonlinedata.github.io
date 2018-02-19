@@ -52,7 +52,7 @@ Assistant Professor
 School of Information, University of Michigan   
 drom@umich.edu  
 
-**[Amit Sharma](https://www.amitsharma.in)**  
+**[Amit Sharma](http://www.amitsharma.in)**  
 Researcher  
 Microsoft Research India   
 amshar@microsoft.com
