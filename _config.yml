@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: First Workshop on Beyond Online Data | ICWSM 2018
+title: Beyond Online Data Workshop | ICWSM 2018
 # title_separator: "|"
 # og_title: Beyond Online Data: Tackling Challenging Social Science Questions
 email: your-email@example.com
