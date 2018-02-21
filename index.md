@@ -37,7 +37,7 @@ Examples of offline data that may be combined with online data include but are n
 
 ## Submission Guidelines 
 ### Format
-We encourage submissions of work-in-progress, extended abstracts, unpublished results, and accepted papers at top conferences/journals. All authors are required to use the AAAI Author Kit to format their papers. The author kit is available at <http://www.aaai.org/Publications/Templates/AuthorKit18.zip>. Submissions should be 2-8 pages. Accepted papers will be presented in the format of either posters or talks.
+We encourage submissions of extended abstracts and position papers that describe work-in-progress or accepted papers at top conferences/journals. All authors are required to use the AAAI Author Kit to format their papers. The author kit is available at <http://www.aaai.org/Publications/Templates/AuthorKit18.zip>. Submissions should be 2-4 pages. Accepted papers will be presented in the format of either posters or talks.
 
 ### Submission Link
 Papers should be submitted via [EasyChair](https://easychair.org/conferences/?conf=bod18).
