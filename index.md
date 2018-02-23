@@ -17,7 +17,7 @@ We invite submissions relevant to the theme of the workshop, including, but not 
 - Generalizability of online studies to the offline world
 
 Examples of offline data that may be combined with online data include but are not limited to: 
-- Human mobility/ Migration 
+- Human mobility/Migration 
 - Neighborhood characteristics data 
 - Health records 
 - Census data 
