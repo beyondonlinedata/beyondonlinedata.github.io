@@ -47,7 +47,7 @@ This workshop features group activity in addition to invited talks and paper/pos
 ## Program Committee
 Brian Keegan (University of Colorado Boulder)   
 Marina Kogan (University of New Mexico)   
-Molly Roberts (UCSD)
+Molly Roberts (UCSD)    
 Johan Ugander (Stanford University)   
 Robert West (EPFL)   
 Yang Yang (Zhejiang University)
