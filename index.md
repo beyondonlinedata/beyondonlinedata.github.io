@@ -45,6 +45,7 @@ Papers should be submitted via [EasyChair](https://easychair.org/conferences/?co
 This workshop features group activity in addition to invited talks and paper/poster presentations. We encourage interested participants to send us a paragraph by June 1, 2018 to indicate their expertise and research interests, such as “qualitative”, “quantitative”, “education”, and “information diffusion”, and questions for a fishbowl-style discussion.  All questions about submissions should be emailed to [beyondonlinedata18@gmail.com](mailto:beyondonlinedata18@gmail.com).
 
 ## Program Committee
+Abbie Jacobs (UC Berkeley)
 Brian Keegan (University of Colorado Boulder)   
 Marina Kogan (University of New Mexico)   
 Molly Roberts (UCSD)    
