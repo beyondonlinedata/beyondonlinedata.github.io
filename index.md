@@ -1,7 +1,5 @@
 ---
-layout: default
 title: "Beyond Online Data: Tackling Challenging Social Science Questions"
-
 ---
 
 ## Summary
