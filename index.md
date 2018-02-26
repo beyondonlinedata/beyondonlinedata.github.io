@@ -7,6 +7,8 @@ The abundance of online data has provided exciting opportunities for computation
 
 This includes novel ways of utilizing offline data, combining offline and online data, and creating new data through observation and experiments. Instead of starting with available datasets, the workshop will discuss approaches that start with a substantive question and find possible ways to leverage diverse potential datasets, including both online data and offline data.
 
+See [Call for Participation](/cfp/).
+
 ## Confirmed Speakers
 **[Sendhil Mullainathan](https://scholar.harvard.edu/sendhil/home)**  
 Robert C. Waggoner Professor of Economics  
