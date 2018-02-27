@@ -30,6 +30,12 @@ show_downloads: "true"
 github:
     repository_url: /cfp/
     home_url: /
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
 
 # Build settings
 markdown: kramdown
