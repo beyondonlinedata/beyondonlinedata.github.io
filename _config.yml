@@ -26,7 +26,7 @@ twitter_username: beyondonlinedata
 github_username:  beyondonlinedata
 repository: beyondonlinedata/beyondonlinedata.github.io
 is_project_page: "true"
-show_downloads: "false"
+show_downloads: "true"
 github:
     repository_url: /cfp/
     home_url: /
