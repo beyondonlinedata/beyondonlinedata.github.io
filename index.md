@@ -15,7 +15,7 @@ Robert C. Waggoner Professor of Economics
 Harvard University
 
 **[Ingmar Weber](http://www.qcri.qa/our-people/bio?pid=67&name=IngmarWeber)**  
-Research Director
+Research Director    
 Qatar Computing Research Institute
 
 
