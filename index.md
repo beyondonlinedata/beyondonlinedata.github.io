@@ -14,6 +14,11 @@ See **[Call for Participation](/cfp/)**.
 Robert C. Waggoner Professor of Economics  
 Harvard University
 
+**[Ingmar Weber](http://www.qcri.qa/our-people/bio?pid=67&name=IngmarWeber)**  
+Research Director
+Qatar Computing Research Institute
+
+
 ## Important Dates 
 - Paper due date: Apr 22, 2018
 - Author notification date: May 15, 2018
