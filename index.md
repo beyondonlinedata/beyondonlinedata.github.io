@@ -10,6 +10,10 @@ This includes novel ways of utilizing offline data, combining offline and online
 See **[Call for Participation](/cfp/)**.
 
 ## Confirmed Speakers
+**[Sandra González-Bailón](https://www.asc.upenn.edu/node/648)**   
+Assistant Professor of Communication    
+University of Pennsylvania
+
 **[Sendhil Mullainathan](https://scholar.harvard.edu/sendhil/home)**  
 Robert C. Waggoner Professor of Economics  
 Harvard University
@@ -25,11 +29,13 @@ Qatar Computing Research Institute
 - Workshop date: June 25, 2018  
 
 ## Program Committee
+Munmun De Choudhury (Georgia Tech)    
 Abbie Jacobs (UC Berkeley)    
 Brian Keegan (University of Colorado Boulder)   
 Marina Kogan (University of New Mexico)   
 Molly Roberts (UCSD)    
 Johan Ugander (Stanford University)   
+Sam Way (University of Colorado Boulder)   
 Robert West (EPFL)   
 Yang Yang (Zhejiang University)
 
