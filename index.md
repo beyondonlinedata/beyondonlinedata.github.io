@@ -22,6 +22,7 @@ Harvard University
 Research Director    
 Qatar Computing Research Institute
 
+<a class="twitter-timeline" href="https://twitter.com/beyondonlinedat?ref_src=twsrc%5Etfw">Tweets by beyondonlinedat</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Important Dates 
 - Paper due date: Apr 22, 2018
