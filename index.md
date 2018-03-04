@@ -25,9 +25,9 @@ Qatar Computing Research Institute
 <a class="twitter-timeline" data-width="500" data-height="300" href="https://twitter.com/beyondonlinedat?ref_src=twsrc%5Etfw">Updates from Twitter</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Important Dates 
-- Paper due date: ** Apr 22, 2018 **
-- Author notification date: ** May 15, 2018 **
-- Workshop date: ** June 25, 2018 **   
+- Paper due date: **Apr 22, 2018**
+- Author notification date: **May 15, 2018**
+- Workshop date: **June 25, 2018**   
 
 ## Program Committee
 Munmun De Choudhury (Georgia Tech)    
