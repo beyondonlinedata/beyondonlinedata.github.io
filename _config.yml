@@ -29,6 +29,7 @@ repository: beyondonlinedata/beyondonlinedata.github.io
 show_downloads: "true"
 github:
     repository_url: /cfp/
+    zip_url: https://twitter.com/beyondonlinedat
     home_url: /
 defaults:
   -
