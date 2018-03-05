@@ -14,6 +14,10 @@ See **[Call for Participation](/cfp/)**.
 Assistant Professor of Communication    
 University of Pennsylvania
 
+**[Jure Leskovec](https://cs.stanford.edu/~jure/)**
+Associate Professor of Computer Science
+Stanford University
+
 **[Sendhil Mullainathan](https://scholar.harvard.edu/sendhil/home)**  
 Robert C. Waggoner Professor of Economics  
 Harvard University
