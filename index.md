@@ -31,7 +31,8 @@ Qatar Computing Research Institute
 
 ## Program Committee
 Munmun De Choudhury (Georgia Tech)    
-Abbie Jacobs (UC Berkeley)    
+Abbie Jacobs (UC Berkeley)   
+David Jurgens (University of Michigan)    
 Brian Keegan (University of Colorado Boulder)   
 Marina Kogan (University of New Mexico)   
 Molly Roberts (UCSD)    
