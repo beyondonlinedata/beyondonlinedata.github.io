@@ -34,9 +34,11 @@ Qatar Computing Research Institute
 - Workshop date: **June 25, 2018**   
 
 ## Program Committee
+Justin Cheng (Facebook)    
 Munmun De Choudhury (Georgia Tech)    
 Abbie Jacobs (UC Berkeley)   
-David Jurgens (University of Michigan)    
+David Jurgens (University of Michigan)  
+Dan Larremore (University of Colorado Boulder)    
 Brian Keegan (University of Colorado Boulder)   
 Marina Kogan (University of New Mexico)   
 Leysia Palen (University of Colorado Boulder)    
