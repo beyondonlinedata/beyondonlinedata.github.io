@@ -34,6 +34,7 @@ Qatar Computing Research Institute
 - Workshop date: **June 25, 2018**   
 
 ## Program Committee
+Ceren Budak (University of Michigan)   
 Justin Cheng (Facebook)    
 Munmun De Choudhury (Georgia Tech)    
 Abbie Jacobs (UC Berkeley)   
