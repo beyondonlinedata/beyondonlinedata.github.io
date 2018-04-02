@@ -22,6 +22,10 @@ Stanford University
 Robert C. Waggoner Professor of Economics  
 Harvard University
 
+**[Brian Uzzi](http://www.kellogg.northwestern.edu/faculty/uzzi/htm/)**
+Richard L. Thomas Professor at the Kellogg School of Management  
+Northwestern University
+
 **[Ingmar Weber](http://www.qcri.qa/our-people/bio?pid=67&name=IngmarWeber)**  
 Research Director    
 Qatar Computing Research Institute
