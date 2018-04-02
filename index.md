@@ -22,7 +22,7 @@ Stanford University
 Robert C. Waggoner Professor of Economics  
 Harvard University
 
-**[Brian Uzzi](http://www.kellogg.northwestern.edu/faculty/uzzi/htm/)**
+**[Brian Uzzi](http://www.kellogg.northwestern.edu/faculty/uzzi/htm/)**     
 Richard L. Thomas Professor at the Kellogg School of Management  
 Northwestern University
 
