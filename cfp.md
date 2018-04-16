@@ -32,6 +32,13 @@ Examples of offline data that may be combined with online data include but are n
 - Author notification date: May 15, 2018
 - Workshop date: June 25, 2018  
 
+## Best Paper Award
+There will be an award for the best paper among all contributed submissions, as
+judged by the workshop's program committee.
+Authors of the best paper will receive a $300 cash prize. 
+
+Thanks to <a href="https://www.microsoft.com/en-us/research/" target="_blank">Microsoft</a> for supporting the workshop and making this award possible!
+
 ## Submission Guidelines 
 ### Format
 We encourage submissions of extended abstracts and position papers that describe work-in-progress or accepted papers at top conferences/journals. All authors are required to use the AAAI Author Kit to format their papers. The author kit is available at <http://www.aaai.org/Publications/Templates/AuthorKit18.zip>. Submissions should be 2-4 pages. Accepted papers will be presented in the format of either posters or talks. The accepted papers will not be archived.

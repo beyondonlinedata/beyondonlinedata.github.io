@@ -42,7 +42,7 @@ There will be an award for the best paper among all contributed submissions, as
 judged by the workshop's program committee.
 Authors of the best paper will receive a $300 cash prize. 
 
-Thanks to Microsoft for supporting the workshop and making this possible!
+Thanks to <a href="https://www.microsoft.com/en-us/research/" target="_blank">Microsoft</a> for supporting the workshop and making this award possible!
 
 ## Program Committee
 Ceren Budak (University of Michigan)   
