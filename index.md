@@ -37,6 +37,13 @@ Qatar Computing Research Institute
 - Author notification date: **May 15, 2018**
 - Workshop date: **June 25, 2018**   
 
+## Best Paper Award
+There will be an award for the best paper among all contributed submissions, as
+judged by the workshop's program committee.
+Authors of the best paper will receive a $300 cash prize. 
+
+Thanks to Microsoft for supporting the workshop and making this possible!
+
 ## Program Committee
 Ceren Budak (University of Michigan)   
 Justin Cheng (Facebook)    
