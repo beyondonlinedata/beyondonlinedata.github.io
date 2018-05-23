@@ -29,6 +29,8 @@ repository: beyondonlinedata/beyondonlinedata.github.io
 show_downloads: "true"
 github:
     repository_url: /cfp/
+    program_url: /program
+    talk_url: /talks
     zip_url: https://twitter.com/beyondonlinedat
     home_url: /
 defaults:
