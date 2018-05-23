@@ -13,21 +13,21 @@ Check out our full [program](/program/). See you on Jun 25 at Standford!
 
 ## Invited Speakers ([detailed information](/talks/))
 
-<table border="0">
+<table style="{border: none}">
 <tr>
-<td width="33%">
+<td width="33%" style="{border: none}">
 <img class="circular--square" src="/images/sandra.jpg" /><br>
 <a href="https://www.asc.upenn.edu/node/648">Sandra González-Bailón</a><br> 
 Assistant Professor of Communication<br>  
 University of Pennsylvania
 </td>
-<td width="33%">
+<td width="33%" style="{border: none}">
 <img class="circular--square" src="/images/jure.jpg" /><br>
 <a href="https://cs.stanford.edu/~jure/">Jure Leskovec</a><br>   
 Associate Professor of Computer Science<br>     
 Stanford University
 </td>
-<td width="33%">
+<td width="33%" style="{border: none}">
 <img class="circular--square" src="/images/sendhil.jpg" /><br>
 <a href="https://scholar.harvard.edu/sendhil/home">Sendhil Mullainathan</a><br>
 Robert C. Waggoner Professor of Economics<br>  
@@ -35,19 +35,19 @@ Harvard University
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="33%" style="{border: none}">
 <img class="circular--square" src="/images/brian.png" /><br>
 <a href="http://www.kellogg.northwestern.edu/faculty/uzzi/htm/">Brian Uzzi</a><br>
 Richard L. Thomas Professor at the Kellogg School of Management<br>
 Northwestern University
 </td>
-<td width="33%">
+<td width="33%" style="{border: none}">
 <img class="circular--square" src="/images/ingmar.jpg" /><br>
 <a href="http://www.qcri.qa/our-people/bio?pid=67&name=IngmarWeber">Ingmar Weber</a><br>
 Research Director<br>
 Qatar Computing Research Institute
 </td>
-<td width="33%"></td>
+<td width="33%" style="{border: none}"></td>
 </tr>
 </table>
 
