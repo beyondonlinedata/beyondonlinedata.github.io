@@ -18,6 +18,11 @@
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.home_url }}" class="btn">Home</a>
+        {% if page.url == "/talks/" %}
+        <a href="{{ site.github.program_url }}" class="btn">Program</a>
+        {% elsif page.url == "/program/" %}
+        <a href="{{ site.github.talk_url }}" class="btn">Invited talks</a>
+        {% endif %}
         <a href="{{ site.github.zip_url }}" class="btn">Updates</a>
       {% endif %}
     </section>
