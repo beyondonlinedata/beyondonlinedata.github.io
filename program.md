@@ -1,51 +1,59 @@
 ---
 layout: page
-title: "Beyond Online Data: Tackling Challenging Social Science Questions"
-permalink: /cfp/
+title: "Beyond Online Data: Tackling Challenging Social Science Questions (Program)"
+permalink: /program/
 
 ---
 
-## Call for papers
-We invite submissions relevant to the theme of the workshop, including, but not limited to: 
-- Studies on substantive questions that go beyond the online world 
-- Observational studies that leverage offline data 
-- Experiments that include offline data 
-- Methodologies for combining insights from diverse datasets
-- Benchmarking online studies through offline data 
-- Generalizability of online studies to the offline world
+---
 
-Examples of offline data that may be combined with online data include but are not limited to: 
-- Human mobility/Migration 
-- Neighborhood characteristics data 
-- Health records 
-- Census data 
-- Educational data 
-- Poverty/unemployment data 
-- International trade 
-- Financial data 
-- Consumer indices 
-- Consumer behavior data 
-- Elections data 
+8:30-8:40am: Welcome!
 
-## Important Dates 
-- Paper due date: Apr 22, 2018
-- Author notification date: May 15, 2018
-- Workshop date: June 25, 2018  
+8:40-9:20am: (Invited talk) Sendhil Mullainathan. _The Promise of Algorithmic Policy: Judges, Doctors and Teachers._
 
-## Best Paper Award
-There will be an award for the best paper among all contributed submissions, as
-judged by the workshop's program committee.
-Authors of the best paper will receive a $300 cash prize. 
+9:20-9:35am: (Contributed talk) Sabina Tomkins, Golnoosh Farnadi, Brian Amanatullah, Lise Getoor and Steven Minton. _The Impact of Environmental Stressors on Human Trafficking._
+ <b>Best paper candidate</b>
 
-Thanks to <a href="https://www.microsoft.com/en-us/research/" target="_blank">Microsoft</a> for supporting the workshop and making this award possible!
+9:35-9:50am: (Contributed talk) Isil Erel, Lea Stern, Chenhao Tan and Michael Weisbach. _Selecting Directors Using Machine Learning._
 
-## Submission Guidelines 
-### Format
-We encourage submissions of extended abstracts and position papers that describe work-in-progress or accepted papers at top conferences/journals. All authors are required to use the AAAI Author Kit to format their papers. The author kit is available at <http://www.aaai.org/Publications/Templates/AuthorKit18.zip>. Submissions should be 2-4 pages. Accepted papers will be presented in the format of either posters or talks. The accepted papers will not be archived.
+9:50-10:30am: (Invited talk) Sandra González-Bailón. TBD.
 
-### Submission Link
-Papers should be submitted via [EasyChair](https://easychair.org/conferences/?conf=bod18).
+---
 
-### Participation 
-This workshop features group activity in addition to invited talks and paper/poster presentations. We encourage interested participants to send us a paragraph by June 1, 2018 to indicate their expertise and research interests, such as “qualitative”, “quantitative”, “education”, and “information diffusion”, and questions for a fishbowl-style discussion.  All questions about submissions should be emailed to [beyondonlinedata18@gmail.com](mailto:beyondonlinedata18@gmail.com).
+10:30-11:00am: Break
+
+---
+
+11:00-11:40am: (Invited talk) Jure Leskovec. _Large-scale human activity traces for human well-being._
+
+11:40-11:55am: (Contributed talk) Julia Poncela-Casasnovas, Adam Pah, Rebecca Hinds and Brian Uzzi. _Links between scientific success and collaboration dynamics._ 
+
+11:55-12:10pm: (Contributed talk): Abigail Bickford, Cody Buntain, Jennifer Golbeck, Sean Mussenden, Pal Doshi, Shiyun Chen, Tracy Zeeger, Sydney Vaile, Rebecca L Annis, Pushkar Deshpande, Jency Francis, Ruchira Kapoor, Gwen Hambright, Himanshu Sawant, Etienne Nadeau, Shivam Saith, Naveen Krishnamurthi and Xinyun Zhang.
+_Identifying Stance in Controversial Topics Through Textual, Social, and Emotional Dimensions._
+
+
+12:10-12:25pm (Contributed talk) Abigail Jacobs, Mathijs De Vaan and Toby Stuart. Diffusion of opioids within the family household. <b>Best paper candidate</b>
+
+
+---
+
+12:30-2:00pm:     Lunch
+
+---
+
+2:00-2:40pm: (Invited talk) Ingmar Weber. _Using Advertising Audience Estimates to Improve Global Development Statistics._
+
+2:40-3:30pm: Panel discussion
+
+---
+
+3:30-4:00pm Break
+
+---
+
+4:00-4:40pm (Invited talk) Brian Uzzi. _An Artificial and Human Intelligence Approach to the Replication Problem in Science._
+
+4:40-4:50pm: Best paper award.
+
+4:50-5:00pm: Goodbye, thanks, discussion, survey.
 
