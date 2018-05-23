@@ -2,6 +2,8 @@
 title: "Beyond Online Data: Tackling Challenging Social Science Questions"
 ---
 
+<link rel="stylesheet" type="text/css" media="all" href="/custom.css" />
+
 ## Summary
 The abundance of online data has provided exciting opportunities for computational social science. However, most social processes thrive at the intersections of online and offline worlds. It thus becomes necessary to connect online studies to the offline world, especially for tackling broad social science questions such as information access, education, healthcare, migration, discrimination, and poverty. This ICWSM workshop on “Beyond online data” aims to bring together social scientists and computer scientists to think about new ways to utilize data for addressing challenging social science questions. 
 
@@ -11,7 +13,7 @@ Check out our full [program](/program/). See you on Jun 25 at Standford!
 
 ## Invited Speakers ([detailed information](/talks/))
 
-<table>
+<table border="0">
 <tr>
 <td width="33%">
 <img class="circular--square" src="/images/sandra.jpg" /><br>
@@ -35,13 +37,13 @@ Harvard University
 <tr>
 <td width="33%">
 <img class="circular--square" src="/images/brian.png" /><br>
-<a href="http://www.kellogg.northwestern.edu/faculty/uzzi/htm/">Brian Uzzi</a> 
+<a href="http://www.kellogg.northwestern.edu/faculty/uzzi/htm/">Brian Uzzi</a><br>
 Richard L. Thomas Professor at the Kellogg School of Management<br>
 Northwestern University
 </td>
 <td width="33%">
 <img class="circular--square" src="/images/ingmar.jpg" /><br>
-<a href="http://www.qcri.qa/our-people/bio?pid=67&name=IngmarWeber">Ingmar Weber</a>
+<a href="http://www.qcri.qa/our-people/bio?pid=67&name=IngmarWeber">Ingmar Weber</a><br>
 Research Director<br>
 Qatar Computing Research Institute
 </td>
