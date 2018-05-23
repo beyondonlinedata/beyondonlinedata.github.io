@@ -12,21 +12,22 @@ permalink: /talks/
 Assistant Professor of Communication    
 University of Pennsylvania
 
---
+---
 
 ####  Large-scale human activity traces for human well-being
 
 The popularity of wearable and mobile devices, including smartphones and smartwatches, has generated an explosion of detailed behavioral data. These massive digital traces provides us with an unparalleled opportunity to realize new types of scientific approaches that provide novel insights about our lives, health, and happiness. However, gaining valuable insights from these data requires new computational approaches that turn weak observational data into strong scientific results and can computationally test domain theories at scale. In this talk, I will describe novel computational methods that leverage digital activity traces at the scale of billions of actions taken by millions of people. These methods combine insights from data mining, social network analysis, and natural language processing to generate actionable insights about our physical and mental well-being. 
 
+<div class="circular--landscape">
+  <img src="/images/jure.jpg" />
+</div>
+
 **[Jure Leskovec](https://cs.stanford.edu/~jure/)**    
 Associate Professor of Computer Science     
 Stanford University
 
-<div class="circular--landscape">
-  <img src="images/jure.jpg" />
-</div>
 
---
+---
 
 #### The Promise of Algorithmic Policy: Judges, Doctors and Teachers
 
@@ -37,7 +38,7 @@ Over the last few years, my collaborators and I have been applying machine learn
 Robert C. Waggoner Professor of Economics  
 Harvard University
 
---
+---
 
 #### An Artificial and Human Intelligence Approach to the Replication Problem in Science
 
@@ -47,7 +48,7 @@ Harvard University
 Richard L. Thomas Professor at the Kellogg School of Management  
 Northwestern University
 
---
+---
 
 #### Using Advertising Audience Estimates to Improve Global Development Statistics
 

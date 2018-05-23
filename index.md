@@ -10,7 +10,25 @@ This includes novel ways of utilizing offline data, combining offline and online
 See **[Call for Participation](/cfp/)**.
 
 ## Invited Speakers
-c
+**[Sandra González-Bailón](https://www.asc.upenn.edu/node/648)**   
+Assistant Professor of Communication    
+University of Pennsylvania
+
+**[Jure Leskovec](https://cs.stanford.edu/~jure/)**    
+Associate Professor of Computer Science     
+Stanford University
+
+**[Sendhil Mullainathan](https://scholar.harvard.edu/sendhil/home)**  
+Robert C. Waggoner Professor of Economics  
+Harvard University
+
+**[Brian Uzzi](http://www.kellogg.northwestern.edu/faculty/uzzi/htm/)**     
+Richard L. Thomas Professor at the Kellogg School of Management  
+Northwestern University
+
+**[Ingmar Weber](http://www.qcri.qa/our-people/bio?pid=67&name=IngmarWeber)**  
+Research Director    
+Qatar Computing Research Institute
 
 <a class="twitter-timeline" data-width="500" data-height="300" href="https://twitter.com/beyondonlinedat?ref_src=twsrc%5Etfw">Updates from Twitter</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
