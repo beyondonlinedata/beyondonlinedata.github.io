@@ -16,7 +16,7 @@ permalink: /program/
 
 9:35-9:50am: (Contributed talk) Isil Erel, Lea Stern, Chenhao Tan and Michael Weisbach. _Selecting Directors Using Machine Learning._
 
-9:50-10:30am: (Invited talk) Sandra González-Bailón. TBD.
+9:50-10:30am: (Invited talk) Sandra González-Bailón. _Data Science and the Unintended Consequences of Communication._
 
 ---
 

@@ -10,25 +10,44 @@ This includes novel ways of utilizing offline data, combining offline and online
 Check out our full [program](/program/). See you on Jun 25 at Standford!
 
 ## Invited Speakers ([detailed information](/talks/))
-**[Sandra González-Bailón](https://www.asc.upenn.edu/node/648)**   
-Assistant Professor of Communication    
+
+<table>
+<tr>
+<td width="33%">
+<img class="circular--square" src="/images/sandra.jpg" /><br>
+<a href="https://www.asc.upenn.edu/node/648">Sandra González-Bailón</a><br> 
+Assistant Professor of Communication<br>  
 University of Pennsylvania
-
-**[Jure Leskovec](https://cs.stanford.edu/~jure/)**    
-Associate Professor of Computer Science     
+</td>
+<td width="33%">
+<img class="circular--square" src="/images/jure.jpg" /><br>
+<a href="https://cs.stanford.edu/~jure/">Jure Leskovec</a><br>   
+Associate Professor of Computer Science<br>     
 Stanford University
-
-**[Sendhil Mullainathan](https://scholar.harvard.edu/sendhil/home)**  
-Robert C. Waggoner Professor of Economics  
+</td>
+<td width="33%">
+<img class="circular--square" src="/images/sendhil.jpg" /><br>
+<a href="https://scholar.harvard.edu/sendhil/home">Sendhil Mullainathan</a><br>
+Robert C. Waggoner Professor of Economics<br>  
 Harvard University
-
-**[Brian Uzzi](http://www.kellogg.northwestern.edu/faculty/uzzi/htm/)**     
-Richard L. Thomas Professor at the Kellogg School of Management  
+</td>
+</tr>
+<tr>
+<td width="33%">
+<img class="circular--square" src="/images/brian.png" /><br>
+<a href="http://www.kellogg.northwestern.edu/faculty/uzzi/htm/">Brian Uzzi</a> 
+Richard L. Thomas Professor at the Kellogg School of Management<br>
 Northwestern University
-
-**[Ingmar Weber](http://www.qcri.qa/our-people/bio?pid=67&name=IngmarWeber)**  
-Research Director    
+</td>
+<td width="33%">
+<img class="circular--square" src="/images/ingmar.jpg" /><br>
+<a href="http://www.qcri.qa/our-people/bio?pid=67&name=IngmarWeber">Ingmar Weber</a>
+Research Director<br>
 Qatar Computing Research Institute
+</td>
+<td width="33%"></td>
+</tr>
+</table>
 
 <a class="twitter-timeline" data-width="500" data-height="300" href="https://twitter.com/beyondonlinedat?ref_src=twsrc%5Etfw">Updates from Twitter</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
