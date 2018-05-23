@@ -7,7 +7,7 @@ The abundance of online data has provided exciting opportunities for computation
 
 This includes novel ways of utilizing offline data, combining offline and online data, and creating new data through observation and experiments. Instead of starting with available datasets, the workshop will discuss approaches that start with a substantive question and find possible ways to leverage diverse potential datasets, including both online data and offline data.
 
-See **[Call for Participation](/cfp/)**.
+See you on Jun 25 at Standford!
 
 ## Invited Speakers
 **[Sandra González-Bailón](https://www.asc.upenn.edu/node/648)**   
@@ -31,11 +31,6 @@ Research Director
 Qatar Computing Research Institute
 
 <a class="twitter-timeline" data-width="500" data-height="300" href="https://twitter.com/beyondonlinedat?ref_src=twsrc%5Etfw">Updates from Twitter</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Important Dates 
-- Paper due date: **Apr 22, 2018**
-- Author notification date: **May 15, 2018**
-- Workshop date: **June 25, 2018**   
 
 ## Best Paper Award
 There will be an award for the best paper among all contributed submissions, as
