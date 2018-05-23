@@ -7,9 +7,9 @@ The abundance of online data has provided exciting opportunities for computation
 
 This includes novel ways of utilizing offline data, combining offline and online data, and creating new data through observation and experiments. Instead of starting with available datasets, the workshop will discuss approaches that start with a substantive question and find possible ways to leverage diverse potential datasets, including both online data and offline data.
 
-See you on Jun 25 at Standford!
+Check out our full [program](/program/). See you on Jun 25 at Standford!
 
-## Invited Speakers
+## Invited Speakers ([detailed information](/talks/))
 **[Sandra González-Bailón](https://www.asc.upenn.edu/node/648)**   
 Assistant Professor of Communication    
 University of Pennsylvania
