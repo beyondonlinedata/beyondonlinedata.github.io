@@ -5,8 +5,6 @@ permalink: /talks/
 
 ---
 
-<link rel="stylesheet" type="text/css" media="all" href="/custom.css" />
-
 #### Data Science and the Unintended Consequences of Communication
 
 Social scientists have long struggled to solve the puzzle of unintended effects – situations in which intentional actions often bring about consequences not foreseen or anticipated by any of the actors involved. This puzzle is intriguing in itself, but it also arises important policy implications: the success of our interventions in the world depends, in the end, on our ability to anticipate the chain reactions those interventions might trigger. In this talk, I will give an overview of the sociological intuitions around the nature of unintended effects, discuss why they matter, and explain why digital data make those intuitions amenable to empirical testing for the first time.

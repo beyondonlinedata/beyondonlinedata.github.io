@@ -2,7 +2,7 @@
 title: "Beyond Online Data: Tackling Challenging Social Science Questions"
 ---
 
-<link rel="stylesheet" type="text/css" media="all" href="/custom.css" />
+
 
 ## Summary
 The abundance of online data has provided exciting opportunities for computational social science. However, most social processes thrive at the intersections of online and offline worlds. It thus becomes necessary to connect online studies to the offline world, especially for tackling broad social science questions such as information access, education, healthcare, migration, discrimination, and poverty. This ICWSM workshop on “Beyond online data” aims to bring together social scientists and computer scientists to think about new ways to utilize data for addressing challenging social science questions. 

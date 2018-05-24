@@ -15,3 +15,7 @@
 .custom table tr td {
     border: none;
 }
+
+.main-content table td {
+    border: none;
+}
