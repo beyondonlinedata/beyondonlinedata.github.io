@@ -58,6 +58,11 @@ There will be an award for the best paper among all contributed submissions, as
 judged by the workshop's program committee.
 Authors of the best paper will receive a $300 cash prize. 
 
+Candidates: 
+
+* Abigail Jacobs, Mathijs De Vaan and Toby Stuart. _Diffusion of opioids within the family household._
+* Sabina Tomkins, Golnoosh Farnadi, Brian Amanatullah, Lise Getoor and Steven Minton. _The Impact of Environmental Stressors on Human Trafficking._
+
 Thanks to <a href="https://www.microsoft.com/en-us/research/" target="_blank">Microsoft</a> for supporting the workshop and making this award possible!
 
 ## Program Committee
