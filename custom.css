@@ -4,6 +4,10 @@
   height: 200px;
 }
 
+table {
+    border: none;
+}
+
 table td{
-border:none;
+    border: none;
 }
