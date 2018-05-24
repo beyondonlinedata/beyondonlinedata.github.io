@@ -4,6 +4,6 @@
   height: 200px;
 }
 
-table, tr, td {
+.custom table, tr, td {
     border: none;
 }

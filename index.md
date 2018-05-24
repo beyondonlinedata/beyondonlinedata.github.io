@@ -13,7 +13,7 @@ Check out our full [program](/program/). See you on Jun 25 at Standford!
 
 ## Invited Speakers ([detailed information](/talks/))
 
-<table>
+<table class="custom">
 <tr>
 <td width="33%">
 <img class="circular--square" src="/images/sandra.jpg" /><br>
