@@ -9,7 +9,7 @@ permalink: /program/
 
 8:30-8:40am: Welcome!
 
-8:40-9:20am: (Invited talk) Sendhil Mullainathan. _The Promise of Algorithmic Policy: Judges, Doctors and Teachers._
+8:40-9:20am: (Invited talk) Jure Leskovec. _Large-scale human activity traces for human well-being._
 
 9:20-9:35am: (Contributed talk) Sabina Tomkins, Golnoosh Farnadi, Brian Amanatullah, Lise Getoor and Steven Minton. _The Impact of Environmental Stressors on Human Trafficking._
  <b>Best paper candidate</b>
@@ -24,7 +24,7 @@ permalink: /program/
 
 ---
 
-11:00-11:40am: (Invited talk) Jure Leskovec. _Large-scale human activity traces for human well-being._
+11:00-11:40am: (Invited talk) Sendhil Mullainathan. _The Promise of Algorithmic Policy: Judges, Doctors and Teachers._
 
 11:40-11:55am: (Contributed talk) Julia Poncela-Casasnovas, Adam Pah, Rebecca Hinds and Brian Uzzi. _Links between scientific success and collaboration dynamics._ 
 
